@@ -4,6 +4,7 @@ Android Tasker project to monitor what you listen to on Spotify and shows a butt
 
 **REQUIREMENTS: Tasker, AutoTools, AutoInput, AutoNotification, and AutoWeb, AutoApps. You also need to have an SSH-accessible computer with smloadr functioning.**
 
+Google Play Links to all the Apps:
 https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US
 https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
 https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput
