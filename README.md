@@ -35,10 +35,23 @@ I know it is a lot of stuff required to get this working......but if you are any
 
 **Installation:**
 
-Once you installed all the apps above and granted permissions, import the Tasker project by visiting this link. **You MUST go to the link using the Android Device you intend to do this with**
+1. Once you installed all the apps above and granted permissions, import the Tasker project by visiting the link below. **You MUST go to the link using the Android Device you intend to do this with**
 
 https://taskernet.com/shares/?user=AS35m8msFEo6EHcVYY6he6IGzxTQQrE5O8T1znp4uQKJ2EVnVHamQ%2Fr%2FvA96NayynBE%3D&id=Project%3ASpotify-smloadr
 
+It should look like this (screenshot below)
+
+<img src="/Screenshot_Chrome_20181203-132848.png" width="50%" height="50%">
 
 
-After importing the 
+2. After importing the project, open Tasker, find the project, and click to edit the task named "Dezzer Bubble Pressed" (sorry for the typo).
+
+3. Read the section between the red text that describes setting variables for server_address, port, and username.
+
+4. You'll also need to either type in the password for your SSH connection or the path to your private key. All described in the section between the red text how to do that.
+
+5. Verify both profiles are enabled (they are named "Deezer Download Bubble Created -Spotify" and "Deezer Download Bubble Created -Maps"
+
+6. Back out of Tasker. Test it out by Opening spotify and beginning to listen to something. You will only see the Download bubbles while you are on the Now Playing screen of Spotify OR on the Active Navigation Screen of Google Maps.
+
+7. You MIGHT need to adjust the XY positions of the bubbles depending on your screen size (I'm not sure, I'm no dev). If you need to do this go back into Tasker, find the Tasks for creating the download bubbles. Edit the AutoTools Web Screen actions in Windows Settings, Offset X and Offset Y. The numbers in those fields dictate where on your screen the Download Bubbles will appear.
