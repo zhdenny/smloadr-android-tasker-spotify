@@ -4,7 +4,16 @@ Android Tasker project to monitor what you listen to on Spotify and shows a butt
 
 **REQUIREMENTS: Tasker, AutoTools, AutoInput, AutoNotification, and AutoWeb, AutoApps. You also need to have an SSH-accessible computer with smloadr functioning.**
 
+https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_US
+https://play.google.com/store/apps/details?id=com.joaomgcd.autotools
+https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput
+https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification
+https://play.google.com/store/apps/details?id=com.joaomgcd.autoweb
+https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub
+
 **In AutoTools, go to Webscreens and import the "Bubble" webscreen and the "Notification" webscreen. In AutoWeb, go Import the Deezer API.** 
+
+I know it is a lot of stuff required to get this working......but if you are any real Tasker user, you likely already have many of these tools under your belt already. And if you aren't a Tasker user yet, become one. The app is like Beethoven's 5th Symphony for Android.
 
 <img src="/4uks8gp[1].png" width="50%" height="50%">
 
