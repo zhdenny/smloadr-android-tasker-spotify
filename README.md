@@ -1,5 +1,7 @@
 **Update 1:** Forgot to mention. I did not provide the actual download icon file because I used one from an icon pack I purchased. So, just go inside the AutoTools Webscreen actiosn in the Tasks and look for the icon settings.....change the icon to whatever you want. You might have to size it too.....just play with the settings in there and you'll figure it out.
 
+**Update 2:** Made a slight bug fix to the AutoNotification Actions in the Tasks to ensure the download buttons get triggered to show up when they should. Upadted Taskernet link in the installation instructions.
+
 # smloadr-android-tasker-spotify
 
 Android Tasker project to monitor what you listen to on Spotify and shows a button. Press the button and you'll get a popup verifying the song/album you are currently listening to. After tapping to confirm selection, it will (in the background) SSH into remote server and send smloadr commands related to the selection. See screenshots showing the green-outlined download button and the following verification popup. I have the button strategically placed depending on what app I'm in....I set it up to only show when I'm on the Now Playing Spotify screen or am Actively Navigation somewhere on the Google Maps navigation screen.
